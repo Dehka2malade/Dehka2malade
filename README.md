@@ -22,7 +22,4 @@
 ---
 
 ## 🥙 Contact
-- **Discord** : dehka.
-
-![alt-text](https://media.discordapp.net/attachments/1327987424629887120/1330719715034792000/e03af003e2f6689bcfa5b2df76c29e280661d0a3.png?ex=67998ccf&is=67983b4f&hm=e86ea12b717a4abdf8076b3c61209ee0c333888df513e8d1ceb99452982ae804&=&format=webp&quality=lossless)
-
+- **Discord** : dehka2maladee
